@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">SixthLab</string>
+    <string name="about_text">
+        У лукоморья дуб зелёный;\n
+        Златая цепь на дубе том:\n
+        И днём и ночью <b>кот учёный</b>\n
+        Всё ходит по цепи кругом;\n
+        Идёт <b>направо</b> - песнь заводит,\n
+    <b>Налево</b> - сказку говорит.</string>
+    <string name="about_title">О программе</string>
+    <string name="aboutButton">about button</string>
+    <string name="button">button</string>
+    <string name="title_activity_second">SecondActivity</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+    <string name="sendButton">send button</string>
+    <string name="description">Описание</string>
+    <string name="toWhom">Кому</string>
+    <string name="send">Передать</string>
+    <string name="secondActivityButton">second activity button</string>
+    <string name="hello">hello</string>
+    <string name="button_delete">deleteButton</string>
+    <string name="button_cancel">cancelButton</string>
+    <string name="title_delete_item">titleDeleteItem</string>
+</resources>
