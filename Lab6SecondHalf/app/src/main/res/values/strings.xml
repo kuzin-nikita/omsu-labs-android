@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">SixthLabSecondPart</string>
+    <string name="whoStolen">Кто украл сосиску?</string>
+    <string name="Nikitos">Никитос</string>
+    <string name="Iluskin">Ильюшкин</string>
+    <string name="Serega">Серега</string>
+    <string name="makeChoise">Сделать выбор</string>
+    <string name="chooseRightPerson">Выберите правильный ответ</string>
+</resources>
