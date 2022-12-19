@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="app/src/main/res/layout/activity_main.xml" value="0.21254119873046878" />
+        <entry key="app/src/main/res/layout/preference_number_picker_dialog.xml" value="0.12234042553191489" />
+        <entry key="app/src/main/res/layout/preference_seek_bar_dialog.xml" value="0.11145833333333334" />
+        <entry key="app/src/main/res/xml/header_settings.xml" value="0.12234042553191489" />
+        <entry key="app/src/main/res/xml/preference_update.xml" value="0.12284701114488349" />
+        <entry key="app/src/main/res/xml/ringtone_preference.xml" value="0.1" />
+        <entry key="app/src/main/res/xml/settings.xml" value="0.22031250000000002" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

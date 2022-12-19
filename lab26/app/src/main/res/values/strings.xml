@@ -1,0 +1,42 @@
+<resources>
+    <string name="app_name">lab26</string>
+    <string name="wifi_title">Wi-Fi</string>
+    <string name="wifi_summary">Вкл. или выкл. сеть WiFi</string>
+    <string name="hints_title">Подсказки</string>
+    <string name="hints_summary">Показывать подсказки</string>
+    <string name="settings_title">Настройки</string>
+    <string name="font_title">Размер шрифта</string>
+    <string name="font_summary">Устанавливает новый размер шрифта</string>
+    <string name="font_dialog_title">Введите размер шрифта (от 10 до 32)</string>
+    <string name="text_style_common">Обычный</string>
+    <string name="text_style_semi_bold">Полу-жирный</string>
+    <string name="text_style_italics">Курсив</string>
+    <string name="text_style_semi_bold_and_italics">Полужирный+Курсив</string>
+    <string name="font_style_title">Стиль для шрифта</string>
+    <string name="font_style_summary">Устанавливает стиль для шрифта</string>
+    <string name="font_style_dialog_title">Выберите стиль для шрифта</string>
+    <string name="cat_switch_summary_off">Вы уверены, что не будете гладить кота?</string>
+    <string name="cat_switch_summary_on">Гладить кота?</string>
+    <string name="cat_switch_text_off">Нет</string>
+    <string name="cat_switch_text_on">Да</string>
+    <string name="ringtone_summary">Устанавливает мелодию для звонка (вкл. или выкл.)</string>
+    <string name="ringtone_title">Настройки рингтона</string>
+    <string name="font_preference_category_title">Настройки шрифта</string>
+    <string name="settings_cathouse">Кошкин дом</string>
+    <string name="settings_cathouse_summary">Этажность, техника</string>
+    <string name="settings_display">Презентация</string>
+    <string name="settings_displaySummary">Гости, подарки</string>
+    <string name="settings_notify">Уведомления</string>
+    <string name="settings_vacuumcleaner_summary">Разрешение на использование пылесоса</string>
+    <string name="settings_vacuumcleaner">Пылесос</string>
+    <string name="settings_floor_summary">sgag</string>
+    <string name="settings_floor">adf</string>
+    <string name="settings_floorDialogTitle">sfss</string>
+    <string name="settings_floors">sg;as</string>
+
+
+
+
+
+
+</resources>
